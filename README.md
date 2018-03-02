@@ -1,5 +1,5 @@
 # Expression-Evaluator
-Prefix expression evaluator
+Prefix expression evaluator, written in Python 3.5
 
 ## Usage
 - Direct use: Call evaluateExpression() with a space delimited string
